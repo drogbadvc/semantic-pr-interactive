@@ -6,6 +6,12 @@ This project, Interactive Graph Visualizer with Text Similarity Analysis, combin
 
 The application is perfect for researchers, data scientists, SEO or anyone interested in graph theory and natural language processing (NLP). It provides a user-friendly interface to add, edit, or delete nodes and edges and see the impact of text similarity on graph dynamics in real time.
 
+## DEMO
+
+- note: on the demo the huggingface api may take some time to respond on the first call. Because of the model loading, if you don't see your link after loading, try again to make your link it should work.
+
+Link : http://labs.vido.fr/semantic-pr/
+
 ## Key Features:
 
 - Interactive Graph Management: Users can interactively manage graph nodes and edges. They can add new nodes and define edges with simple clicks and user inputs.
@@ -28,11 +34,11 @@ Before you start the installation, make sure that you have the following tools i
 
 1. Clone the Git Repository:
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/drogbadvc/semantic-pr-interactive.git
 ```
 2. Navigate to the project folder :
 ```bash
-cd your-repository 
+cd semantic-pr-interactive 
 ```
 
 3. Install the Project Dependencies:
